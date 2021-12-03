@@ -1,3 +1,4 @@
+Student - Add , Update , Edit , show and Delete
 
 After cloning project, go to the root folder of project and run,
  
